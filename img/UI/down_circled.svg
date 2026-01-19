@@ -1,10 +1,1 @@
-<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12.5" cy="12.5" r="12" fill="#20224E" stroke="url(#paint0_linear_1021_8576)"/>
-<path d="M9.42439 8.66143C9.19007 8.42711 8.81017 8.42711 8.57586 8.66143C8.34154 8.89574 8.34154 9.27564 8.57586 9.50996L9.42439 8.66143ZM16.0712 16.7568C16.4026 16.7568 16.6712 16.4881 16.6712 16.1568L16.6712 10.7568C16.6712 10.4254 16.4026 10.1568 16.0712 10.1568C15.7398 10.1568 15.4712 10.4254 15.4712 10.7568L15.4712 15.5568L10.6712 15.5568C10.3398 15.5568 10.0712 15.8254 10.0712 16.1568C10.0712 16.4881 10.3398 16.7568 10.6712 16.7568L16.0712 16.7568ZM8.57586 9.50996L15.6469 16.581L16.4955 15.7325L9.42439 8.66143L8.57586 9.50996Z" fill="#C75E4B"/>
-<defs>
-<linearGradient id="paint0_linear_1021_8576" x1="-5.79608e-08" y1="-0.29703" x2="20.7361" y2="28.1122" gradientUnits="userSpaceOnUse">
-<stop stop-color="#384263" stop-opacity="0.25"/>
-<stop offset="1" stop-color="#384263" stop-opacity="0.15"/>
-</linearGradient>
-</defs>
-</svg>
+<svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12.5" cy="12.5" r="12" fill="#20224E" stroke="url(#paint0_linear_1021_8576)"/><path d="M9.424 8.661a.6.6 0 10-.848.849l.848-.849zm6.647 8.096a.6.6 0 00.6-.6v-5.4a.6.6 0 10-1.2 0v4.8h-4.8a.6.6 0 100 1.2h5.4zM8.576 9.51l7.07 7.071.85-.848L9.424 8.66l-.848.849z" fill="#C75E4B"/><defs><linearGradient id="paint0_linear_1021_8576" x1="0" y1="-.297" x2="20.736" y2="28.112" gradientUnits="userSpaceOnUse"><stop stop-color="#384263" stop-opacity=".25"/><stop offset="1" stop-color="#384263" stop-opacity=".15"/></linearGradient></defs></svg>

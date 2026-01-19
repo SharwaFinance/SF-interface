@@ -1,16 +1,1 @@
-<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_5158_3536)">
-<rect width="30" height="30" rx="5" fill="#181A3C"/>
-<rect x="0.5" y="0.5" width="29" height="29" rx="4.5" stroke="url(#paint0_linear_5158_3536)" stroke-opacity="0.7"/>
-<path d="M21.9875 9.0789L8.70041 13.9664C7.79362 14.3138 7.79886 14.7964 8.53404 15.0115L11.9454 16.0267L19.8382 11.2764C20.2114 11.0598 20.5524 11.1763 20.2721 11.4136L13.8774 16.9188H13.8759L13.8774 16.9195L13.642 20.2737C13.9868 20.2737 14.1389 20.1228 14.3323 19.9448L15.9892 18.4079L19.4358 20.8363C20.0713 21.1701 20.5277 20.9985 20.6858 20.2751L22.9483 10.104C23.1798 9.2183 22.5938 8.81726 21.9875 9.0789Z" fill="#6988FF"/>
-</g>
-<defs>
-<linearGradient id="paint0_linear_5158_3536" x1="-6.9553e-08" y1="-0.356436" x2="24.8833" y2="33.7347" gradientUnits="userSpaceOnUse">
-<stop stop-color="#384263" stop-opacity="0.25"/>
-<stop offset="1" stop-color="#384263" stop-opacity="0.15"/>
-</linearGradient>
-<clipPath id="clip0_5158_3536">
-<rect width="30" height="30" rx="3" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg width="30" height="30" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_5158_3536)"><rect width="30" height="30" rx="5" fill="#181A3C"/><rect x=".5" y=".5" width="29" height="29" rx="4.5" stroke="url(#paint0_linear_5158_3536)" stroke-opacity=".7"/><path d="M21.988 9.079L8.7 13.966c-.906.348-.901.83-.166 1.046l3.411 1.015 7.893-4.75c.373-.217.714-.1.434.137l-6.395 5.505h-.001.001l-.235 3.355c.345 0 .497-.151.69-.33l1.657-1.536 3.447 2.428c.635.334 1.092.163 1.25-.56l2.262-10.172c.232-.886-.354-1.287-.96-1.025z" fill="#6988FF"/></g><defs><linearGradient id="paint0_linear_5158_3536" x1="0" y1="-.356" x2="24.883" y2="33.735" gradientUnits="userSpaceOnUse"><stop stop-color="#384263" stop-opacity=".25"/><stop offset="1" stop-color="#384263" stop-opacity=".15"/></linearGradient><clipPath id="clip0_5158_3536"><rect width="30" height="30" rx="3" fill="#fff"/></clipPath></defs></svg>

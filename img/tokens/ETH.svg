@@ -1,16 +1,1 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="logo-eth" clip-path="url(#clip0_802_7463)">
-<path id="Vector" d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20C0 31.0457 8.9543 40 20 40Z" fill="#627EEA"/>
-<path id="Vector_2" d="M20.6224 5V16.0875L29.9937 20.275L20.6224 5Z" fill="white" fill-opacity="0.602"/>
-<path id="Vector_3" d="M20.6225 5L11.25 20.275L20.6225 16.0875V5Z" fill="white"/>
-<path id="Vector_4" d="M20.6224 27.46V34.9938L29.9999 22.02L20.6224 27.46Z" fill="white" fill-opacity="0.602"/>
-<path id="Vector_5" d="M20.6225 34.9938V27.4588L11.25 22.02L20.6225 34.9938Z" fill="white"/>
-<path id="Vector_6" d="M20.6224 25.7162L29.9937 20.275L20.6224 16.09V25.7162Z" fill="white" fill-opacity="0.2"/>
-<path id="Vector_7" d="M11.25 20.275L20.6225 25.7162V16.09L11.25 20.275Z" fill="white" fill-opacity="0.602"/>
-</g>
-<defs>
-<clipPath id="clip0_802_7463">
-<rect width="40" height="40" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_802_7463)"><path d="M20 40c11.046 0 20-8.954 20-20S31.046 0 20 0 0 8.954 0 20s8.954 20 20 20z" fill="#627EEA"/><path d="M20.622 5v11.087l9.372 4.188L20.622 5z" fill="#fff" fill-opacity=".602"/><path d="M20.622 5L11.25 20.275l9.372-4.188V5z" fill="#fff"/><path d="M20.622 27.46v7.534L30 22.02l-9.378 5.44z" fill="#fff" fill-opacity=".602"/><path d="M20.622 34.994v-7.535L11.25 22.02l9.372 12.974z" fill="#fff"/><path d="M20.622 25.716l9.372-5.441-9.372-4.185v9.626z" fill="#fff" fill-opacity=".2"/><path d="M11.25 20.275l9.372 5.441V16.09l-9.372 4.185z" fill="#fff" fill-opacity=".602"/></g><defs><clipPath id="clip0_802_7463"><path fill="#fff" d="M0 0h40v40H0z"/></clipPath></defs></svg>
